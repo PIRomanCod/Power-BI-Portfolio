@@ -17,17 +17,17 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
+I am a meticulous data enthusiast with extensive experience in Power BI, Python, and Excel. I have over 20 years of data science experience, including transforming raw data into meaningful insights, creating interactive dashboards, and helping companies make data-driven decisions. This portfolio showcases my mastery of Power BI and highlights my ability to effectively present complex data visually.
 
 ---
-- [<ins><b>©2024 PiRoman. All rights reserved</b></ins>]
+- <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 ---
 ## [Project 1: Sales Dashboard](https://)
 
 Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 ## Preview
 
-![sales](https://1.gif)
+![Dashboard1](https://1.gif)
 
 ## [Project 2]: 
 
@@ -42,7 +42,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 
 ## Author
-- [<ins><b>©©2024 PiRoman. All rights reserved</b></ins>]
+- <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/)</b>
 
 
