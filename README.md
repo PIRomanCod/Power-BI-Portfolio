@@ -22,9 +22,44 @@ I am a meticulous data enthusiast with extensive experience in Power BI, Python,
 ---
 - <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 ---
-## [Project 1: Sales Dashboard](https://)
+## [Project 1: Observer Dashboard](https://)
 
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+A comprehensive dashboard for a manufacturing and trading company, 
+a powerful and intuitive data visualization tool built using Power BI. 
+This dashboard offers a comprehensive view of company.
+
+
+The dashboard including a full analysis of all areas of activity:
+
+1. Production indicators:
+- warehouse turnover
+- purchases and sales
+- equipment loading
+- fixed assets
+
+2. Financial indicators:
+- cost price and profitability for each product and direction
+- general production costs
+- operational calculation of working capital
+- balances by counterparties
+- profits and losses
+- capital gains
+
+3. Budgeting:
+- control of debt terms
+- borrowed funds
+- cash flow
+- warehouse inventory planning
+
+4. Labor resources:
+- payroll
+- staff turnover
+- balances with employees
+
+5. Market reviews:
+- industry reviews
+- analysis of the company's pricing policy
+
 ## Preview
 
 ![Dashboard1](https://1.gif)
@@ -48,7 +83,6 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
   
 ## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [WebSite](https://www.) profile. Thank you
-
+Due to the large amount of time invested in the projects development and for privacy reasons, the full PBIX files are not publicly available on GitHub, only visualizations. If anyone is interested in getting access to the code, feel free to contact me directly. Your understanding will be highly appreciated. Please check out my [WebSite](https://www.) profile. Thanks
  
  
