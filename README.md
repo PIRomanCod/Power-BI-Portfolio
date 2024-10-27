@@ -7,6 +7,9 @@
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Parasut](https://img.shields.io/badge/Parasut-D83B01?style=for-the-badge&logo=Parasut&logoColor=white)
 ![1C](https://img.shields.io/badge/1C-F2C811?style=for-the-badge&logo=1C&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-00000F?style=for-the-badge&logo=DAX&logoColor=white)
+![Power Query](https://img.shields.io/badge/PowerQuery-07405E?style=for-the-badge&logo=PowerQuery&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/PowerPivot-%2300C4CC.svg?style=for-the-badge&logo=PowerPivot&logoColor=white)
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -24,7 +27,7 @@ I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ
 ---
 - <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 ---
-## [Project 1: CEO's executive Dashboard]
+## Project 1: CEO's executive Dashboard
 
 A comprehensive dashboard for a manufacturing and trading company, 
 a powerful and intuitive data visualization tool built using Power BI. 
@@ -65,31 +68,31 @@ The dashboard including a full analysis of all areas of activity:
 Below you can see some of the functionality of this dashboard.
 
 
-## F.A.Q.
+### F.A.Q.
 ![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
 
-## Summary overview
+### Summary overview
 ![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
 
-## Profit calculation and analyse
+### Profit calculation and analyse
 ![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)
 
-## Turning money
+### Turning money
 ![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
 
-## Markets
+### Markets
 ![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
 
-## Balances with counterparties
+### Balances with counterparties
 ![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
 
-## Cashflow
+### Cashflow
 ![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)
 
-## Stocks
+### Stocks
 ![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)
 
-## Employee
+### Employee
 ![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)
 
 <!-- ## [Project 2]: 
@@ -98,7 +101,7 @@ Below you can see some of the functionality of this dashboard.
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@1.com](mailto:info@1.com) or connect with me on LinkedIn at [PiRoman](https://www.linkedin.com/in/yourname).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@1.com](mailto:info@4751413@gmail.com) or connect with me on LinkedIn at [PiRoman](https://www.linkedin.com/in/yourname).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
