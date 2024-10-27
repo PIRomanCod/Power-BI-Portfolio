@@ -60,19 +60,35 @@ The dashboard including a full analysis of all areas of activity:
 - industry reviews
 - analysis of the company's pricing policy
 
-## Preview
+## F.A.Q.
 ![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
+
+## Summary overview
 ![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
+
+## Profit calculation and analyse
 ![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)
+
+## Turning money
 ![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
+
+## Markets
 ![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
+
+## Balances with counterparties
 ![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
+
+## Cashflow
 ![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)
+
+## Stocks
 ![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)
+
+## Employee
 ![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)
 
-## [Project 2]: 
-
+<!-- ## [Project 2]: 
+ -->
 
 
 ## Contact Information
@@ -90,6 +106,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
   
 ## License
-Due to the large amount of time invested in the projects development and for privacy reasons, the full PBIX files are not publicly available on GitHub, only visualizations. If anyone is interested in getting access to the code, feel free to contact me directly. Your understanding will be highly appreciated. Please check out my [WebSite](https://www.) profile. Thanks
+Due to the large amount of time invested in the projects development and for privacy reasons, the full PBIX files are not publicly available on GitHub, only visualizations. If anyone is interested in getting access to the code, feel free to contact me directly. Your understanding will be highly appreciated. 
+<!-- Please check out my [WebSite](https://www.) profile. Thanks -->
  
  
