@@ -62,7 +62,7 @@ The dashboard including a full analysis of all areas of activity:
 
 ## Preview
 
-![Dashboard1](https://1.gif)
+![HR](https://github.com/PIRomanCod/Power-BI-Portfolio/src/hr.gif)
 
 ## [Project 2]: 
 
