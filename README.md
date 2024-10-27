@@ -61,7 +61,14 @@ The dashboard including a full analysis of all areas of activity:
 - analysis of the company's pricing policy
 
 ## Preview
-
+![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
+![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
+![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)
+![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
+![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
+![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
+![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)
+![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)
 ![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)
 
 ## [Project 2]: 
