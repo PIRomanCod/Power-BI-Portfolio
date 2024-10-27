@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Parasut](https://img.shields.io/badge/Parasut-D83B01?style=for-the-badge&logo=Parasut&logoColor=white)
+![1C](https://img.shields.io/badge/1C-F2C811?style=for-the-badge&logo=1C&logoColor=black)
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -17,12 +19,12 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a meticulous data enthusiast with extensive experience in Power BI, Python, and Excel. I have over 20 years of data science experience, including transforming raw data into meaningful insights, creating interactive dashboards, and helping companies make data-driven decisions. This portfolio showcases my mastery of Power BI and highlights my ability to effectively present complex data visually.
+I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ), Python (Web, DS, ML), and Excel (DAX, PP, VBA). I have over 20 years of data science experience, including transforming raw data into meaningful insights, creating interactive dashboards, and helping companies make data-driven decisions. This portfolio showcases my mastery of Power BI and highlights my ability to effectively present complex data visually.
 
 ---
 - <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 ---
-## [Project 1: Observer Dashboard](https://)
+## [Project 1: CEO's executive Dashboard]
 
 A comprehensive dashboard for a manufacturing and trading company, 
 a powerful and intuitive data visualization tool built using Power BI. 
@@ -59,6 +61,9 @@ The dashboard including a full analysis of all areas of activity:
 5. Market reviews:
 - industry reviews
 - analysis of the company's pricing policy
+
+Below you can see some of the functionality of this dashboard.
+
 
 ## F.A.Q.
 ![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
@@ -101,7 +106,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 ## Author
 - <ins><b>©2024 PiRoman. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/)</b>
+- <b>[LinkedIn](https://www.linkedin.com/in/roman-pimonov-41048b18b/)</b>
 
 
   
