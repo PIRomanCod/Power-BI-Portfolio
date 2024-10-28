@@ -101,7 +101,9 @@ Below you can see some of the functionality of this dashboard.
 
 ## Contact Information
 
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@1.com](mailto:info@4751413@gmail.com) or connect with me on LinkedIn at [PiRoman](https://www.linkedin.com/in/yourname).
+If you have any questions, feedback, or collaboration opportunities, 
+please feel free to reach out to me. You can contact me via email at [475@gmail.com](mailto:info@4751413@gmail.com) 
+or connect with me on LinkedIn.
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
