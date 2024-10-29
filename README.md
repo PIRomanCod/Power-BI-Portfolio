@@ -69,10 +69,9 @@ The dashboard including a full analysis of all areas of activity:
 
 Below you can see some of the functionality of this dashboard.
 
-<details>
-  <summary>
- ###  F.A.Q. </summary>
-![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif) </details>
+
+ ###  F.A.Q.
+![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
 
 ### Summary ovewview
 ![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
