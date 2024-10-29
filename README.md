@@ -70,20 +70,28 @@ The dashboard including a full analysis of all areas of activity:
 Below you can see some of the functionality of this dashboard.
 
 <details>
-  <summary> ###  F.A.Q. </summary>
-![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)</details>
-### Summary overview 
+  <summary>
+ ###  F.A.Q. </summary>
+![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif) </details>
+
+### Summary ovewview
 ![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
+
 ###  Profit calculation and analyse 
 ![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)
+
 ### Turning money 
 ![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
+
 ### Markets 
 ![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
+
 ###  Balances with counterparties
 ![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
+
 ###  Cashflow
 ![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)
+
 ###  Stocks 
 ![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)
 
