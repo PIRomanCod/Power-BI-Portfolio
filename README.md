@@ -36,7 +36,7 @@ I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ
 a powerful and intuitive data visualization tool built using Power BI. 
 This dashboard offers a comprehensive view of company.</summary>
 
-The dashboard including a full analysis of all areas of activity:
+The dashboard including a full analysis of all areas of activity on any selected date / period:
 
 1. Production indicators:
 - warehouse turnover
@@ -47,7 +47,7 @@ The dashboard including a full analysis of all areas of activity:
 2. Financial indicators:
 - cost price and profitability for each product and direction
 - general production costs
-- operational calculation of working capital
+- calculation of working capital
 - balances by counterparties
 - profits and losses
 - capital gains
@@ -67,13 +67,13 @@ The dashboard including a full analysis of all areas of activity:
 - industry reviews
 - analysis of the company's pricing policy
 
-Below you can see some of the functionality of this dashboard.
+Below you can see some of the functionality of this dashboard (all data is anonymized and changed).
 
 
  ###  F.A.Q.
 ![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)
 
-### Summary ovewview
+### Summary overview
 ![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
 
 ###  Profit calculation and analyse 
