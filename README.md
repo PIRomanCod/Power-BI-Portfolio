@@ -70,32 +70,25 @@ The dashboard including a full analysis of all areas of activity:
 Below you can see some of the functionality of this dashboard.
 
 <details>
-### <summary> F.A.Q. </summary>
+  <summary> ###  F.A.Q. </summary>
 ![Help gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/F.A.Q..gif)</details>
-<details>
-### <summary> Summary overview </summary>
-![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)</details>
-<details>
-### <summary> Profit calculation and analyse </summary>
-![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)</details>
-<details>
-### <summary> Turning money </summary>
-![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)</details>
-<details>
-### <summary> Markets </summary>
-![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)</details>
-<details>
-### <summary> Balances with counterparties </summary>
-![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)</details>
-<details>
-### <summary> Cashflow </summary>
-![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)</details>
-<details>
-### <summary> Stocks </summary>
-![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)</details>
-<details>
-### <summary> Employee </summary>
-![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)</details>
+### Summary overview 
+![Overview gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/company%20overview.gif)
+###  Profit calculation and analyse 
+![Profit gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/profit.gif)
+### Turning money 
+![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
+### Markets 
+![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
+###  Balances with counterparties
+![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
+###  Cashflow
+![Cashflow gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/cashflow.gif)
+###  Stocks 
+![Stocks gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/stocks.gif)
+
+###  Employee
+![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)
 
 </details>
 
