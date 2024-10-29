@@ -99,9 +99,37 @@ Below you can see some of the functionality of this dashboard (all data is anony
 
 </details>
 
-<!-- ## [Project 2]: 
- -->
+## Project 2: Store's Marketing Dashboard  
 
+<details>
+  <summary>Dashboard Summary for Marketing Department</summary>
+
+This dashboard provides a comprehensive analysis of key customer and product metrics to inform marketing strategy and sales optimization. Key features include:
+
+Dynamic ABC Analysis: Enables segmentation of customers and products into A, B, and C categories based on contribution metrics (such as revenue or profit), helping identify high-value segments and prioritize marketing efforts.
+
+Basket Analysis: Offers insights into product associations within customer transactions, highlighting commonly co-purchased items. This aids in designing targeted cross-selling strategies and promotions.
+
+Top-N Product Analysis: Tracks the performance of selected top, middle, and bottom-performing products over time, allowing the team to evaluate shifts in product demand and identify opportunities for growth or improvement.
+
+This dashboard equips the marketing department with actionable data insights, enabling strategic planning and optimized customer engagement efforts.
+
+### Basket Analysis
+![Basket Analysis gif] (https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Marketing%20%20Checks%20analyse%20joint%20purshases.gif)
+
+
+### Customers Dynamic ABC Analysis
+![Customers ABC gif] (https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20customers%20abc%20analyse%20.gif)
+
+
+### Products Dynamic ABC Analysis
+![Products ABC gif] (https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20products%20abc%20analyse.gif)
+
+
+### Top-N Product Analysis
+![Top-N  gif] (https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20top%20products%20analyse.gif)
+
+</details>
 
 ## Contact Information
 
