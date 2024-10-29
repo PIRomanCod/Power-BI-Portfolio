@@ -29,10 +29,12 @@ I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ
 ---
 ## Project 1: CEO's executive Dashboard
 
-A comprehensive dashboard for a manufacturing and trading company, 
-a powerful and intuitive data visualization tool built using Power BI. 
-This dashboard offers a comprehensive view of company.
 
+
+<details>
+  <summary>A comprehensive dashboard for a manufacturing and trading company, 
+a powerful and intuitive data visualization tool built using Power BI. 
+This dashboard offers a comprehensive view of company.</summary>
 
 The dashboard including a full analysis of all areas of activity:
 
@@ -94,6 +96,8 @@ Below you can see some of the functionality of this dashboard.
 
 ### Employee
 ![HR gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/hr.gif)
+
+</details>
 
 <!-- ## [Project 2]: 
  -->
