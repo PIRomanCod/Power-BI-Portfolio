@@ -115,7 +115,7 @@ Top-N Product Analysis: Tracks the performance of selected top, middle, and bott
 This dashboard equips the marketing department with actionable data insights, enabling strategic planning and optimized customer engagement efforts.
 
 ### Basket Analysis
-![Basket Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Marketing%20%20Checks%20analyse%20joint%20purshases.gif)
+![Basket Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
 
 
 ### Customers Dynamic ABC Analysis
@@ -127,7 +127,10 @@ This dashboard equips the marketing department with actionable data insights, en
 
 
 ### Top-N Product Analysis
-![Top-N  gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20top%20products%20analyse.gif)
+![Top-N gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20top%20products%20analyse.gif)
+
+### RFM (Recency, Frequency, Monetary) customers Analysis
+![RFM gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20rmf.gif)
 
 </details>
 
