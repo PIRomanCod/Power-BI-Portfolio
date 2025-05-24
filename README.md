@@ -171,6 +171,16 @@ Cohort Metrics:
 - Average Revenue Per User (ARPU)		
 - Revenue Per Cohort  
 
+### Cohorts analyse
+![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Cohorts%20analyse.gif)
+
+### New vs Returning Sales
+![New vs Returning Sales gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/New%20vs%20Returning%20Sales.gif)
+
+### Yearly Cohort Analysis
+![Yearly Cohort Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Yearly%20Cohort%20Analysis.gif)
+
+
 Further Analysis Metrics:
 In addition to exist cohort metrics, the dashboard can be extended with the following indicators for deeper insights:
 
@@ -189,15 +199,6 @@ In addition to exist cohort metrics, the dashboard can be extended with the foll
 - Segmented Cohorts – Cohorts broken down by geography, acquisition channel, or device type to identify patterns in different user segments.
 
 These extended metrics provide a more granular view of customer behavior, enabling better forecasting, segmentation, and product improvement strategies.
-
-### Cohorts analyse
-![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Cohorts%20analyse.gif)
-
-### New vs Returning Sales
-![New vs Returning Sales gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/New%20vs%20Returning%20Sales.gif)
-
-### Yearly Cohort Analysis
-![Yearly Cohort Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Yearly%20Cohort%20Analysis.gif)
 
 </details>
 
