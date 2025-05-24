@@ -202,6 +202,51 @@ These extended metrics provide a more granular view of customer behavior, enabli
 
 </details>
 
+
+## Project 4: AgroMarket Overview Dashboard
+<details> <summary>AgroMarket Overview Dashboard</summary>
+This dashboard provides a comprehensive analysis of the AgroMarket across several countries.
+
+Like the previous dashboards, it is based on data aggregated from various APIs and services into a centralized database.
+
+The report operates independently and is refreshed daily with the latest available data.
+It automatically converts all prices into the preferred currency for consistency.
+
+Covered Countries:
+
+- Ukraine
+
+- Türkiye
+
+Price Overview Includes:
+
+- Spot and futures market prices
+
+- Delivery costs
+
+- Indicative customs pricing
+
+- Currency exchange rates
+
+- Freight costs
+- 
+### UA Analysis
+![UA Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/AgroMarket%20Country%20Analysis.gif)
+
+### TR Analysis
+![TR Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/AgroMarket%20Product%20Analysis.gif)
+
+🔄 This project is still in development. New data sources and features are continuously added based on ad-hoc requests.
+
+This dashboard is designed for market analysts, exporters, logistics managers, and commodity traders who need up-to-date insights into the agricultural market across multiple countries.
+
+It supports strategic decision-making by tracking price trends, currency fluctuations, and logistics costs in real time.
+
+Unlike static reports, it updates daily and offers automatic currency conversion, making it both dynamic and easy to use for cross-country comparisons.
+
+</details>
+
+
 ## Contact Information
 
 If you have any questions, feedback, or collaboration opportunities, 
