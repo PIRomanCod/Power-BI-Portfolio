@@ -155,7 +155,8 @@ This dashboard equips the marketing department with actionable data insights, en
 
 <details>
 <summary>Cohort analysis Dashboard for Marketing Department</summary>
-This dashboard provides a comprehensive cohort analysis of custumers behavior and their preferences. 
+This dashboard provides a comprehensive cohort analysis of custumers behavior over time. 
+
 Industries: E-commerce, SaaS, Gaming, Subscribing services.
 
 It's a powerful technique in data analytics used to examine how specific groups (cohorts) of users behave over time.
