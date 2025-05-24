@@ -229,12 +229,12 @@ Price Overview Includes:
 - Currency exchange rates
 
 - Freight costs
-- 
+
 ### UA Analysis
-![UA Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/AgroMarket%20Country%20Analysis.gif)
+![UA Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/UA%20Agro.gif)
 
 ### TR Analysis
-![TR Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/AgroMarket%20Product%20Analysis.gif)
+![TR Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/TR%20Agro.gif)
 
 🔄 This project is still in development. New data sources and features are continuously added based on ad-hoc requests.
 
