@@ -171,13 +171,13 @@ Cohort Metrics:
 - Revenue Per Cohort  
 
 ### Cohorts analyse
-![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Cohorts%20analyse.gif)
 
 ### New vs Returning Sales
-![New vs Returning Sales gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+![New vs Returning Sales gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/New%20vs%20Returning%20Sales.gif)
 
 ### Yearly Cohort Analysis
-![Yearly Cohort Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+![Yearly Cohort Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Yearly%20Cohort%20Analysis.gif)
 
 </details>
 
