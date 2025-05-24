@@ -22,14 +22,24 @@
 Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
 
 ## About Me
-I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ), Python (Web, DS, ML), and Excel (DAX, PP, VBA). I have over 20 years of data science experience, including transforming raw data into meaningful insights, creating interactive dashboards, and helping companies make data-driven decisions. This portfolio showcases my mastery of Power BI and highlights my ability to effectively present complex data visually.
+I am a meticulous data enthusiast with extensive experience in Power BI (DAX, PQ), Python (Web, DS, ML), and Excel (DAX, PP, VBA). I have over 20 years of data science experience, including transforming raw data into meaningful insights, creating interactive dashboards, and helping companies make data-driven decisions. 
+
+This portfolio showcases my mastery of Power BI and highlights my ability to effectively present complex data visually.
+
+My key area of expertise lies in analyzing and optimizing unit economics, helping businesses understand their cost structures, PnL, ROI, COGS, and other key metrics.
+
+I develop interactive dashboards and models that reveal core drivers of profitability, track operational KPIs, and support decision-making at both tactical and executive levels.
+
+This portfolio highlights my ability to visualize complex metrics across industries such as e-commerce, SaaS, agriculture, and logistics.
+
+My goal is to help companies achieve sustainable growth by making their data work for them — clearly, effectively, and with measurable results.
 
 ---
 - <ins><b>©2024 PiRoman. All rights reserved</b></ins>
 ---
+
+
 ## Project 1: CEO's executive Dashboard
-
-
 
 <details>
   <summary>A comprehensive dashboard for a manufacturing and trading company, 
@@ -245,6 +255,14 @@ It supports strategic decision-making by tracking price trends, currency fluctua
 Unlike static reports, it updates daily and offers automatic currency conversion, making it both dynamic and easy to use for cross-country comparisons.
 
 </details>
+
+
+## Another projects
+The portfolio also includes projects developed under NDA, which cannot be publicly shared. 
+
+These cover areas such as crypto market monitoring, individual cryptowallet activity, and blockchain-based transaction insights.
+
+Additionally, several projects focus on logistics and supply chain analytics, providing visibility into shipping delays, freight pricing trends, and delivery performance across multiple regions.
 
 
 ## Contact Information
