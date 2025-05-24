@@ -154,8 +154,8 @@ This dashboard equips the marketing department with actionable data insights, en
 ## Project 3: Cohort analysis Dashboard  
 
 <details>
-<summary>Cohort analysis Dashboard for Marketing Department</summary>
-This dashboard provides a comprehensive cohort analysis of custumers behavior over time. 
+<summary>Cohort analysis Dashboard</summary>
+This dashboard provides a comprehensive analysis of customer group behavior over time. 
 
 Industries: E-commerce, SaaS, Gaming, Subscribing services.
 
@@ -170,6 +170,25 @@ Cohort Metrics:
 - Retention Rate		
 - Average Revenue Per User (ARPU)		
 - Revenue Per Cohort  
+
+Further Analysis Metrics:
+In addition to exist cohort metrics, the dashboard can be extended with the following indicators for deeper insights:
+
+- Churn Rate – Measures the percentage of users who stop using the service during a specific time period.
+
+- Customer Lifetime Value (CLTV) – Estimates the total revenue a business can expect from a single customer or cohort throughout their lifecycle.
+
+- Cohort Growth Rate – Tracks how the size of new user cohorts changes over time, reflecting acquisition trends.
+
+- Conversion Rate per Cohort – Shows how efficiently each cohort moves through the funnel (e.g., from sign-up to first purchase).
+
+- Engagement Metrics – Includes session frequency, feature usage, and activity levels to assess user involvement within each cohort.
+
+- Revenue Retention Rate – Evaluates how much revenue is retained from a cohort over time, accounting for upsells or downgrades.
+
+- Segmented Cohorts – Cohorts broken down by geography, acquisition channel, or device type to identify patterns in different user segments.
+
+These extended metrics provide a more granular view of customer behavior, enabling better forecasting, segmentation, and product improvement strategies.
 
 ### Cohorts analyse
 ![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/Cohorts%20analyse.gif)
