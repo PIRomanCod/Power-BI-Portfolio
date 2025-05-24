@@ -150,6 +150,37 @@ This dashboard equips the marketing department with actionable data insights, en
 
 </details>
 
+
+## Project 3: Cohort analysis Dashboard  
+
+<details>
+<summary>Cohort analysis Dashboard for Marketing Department</summary>
+This dashboard provides a comprehensive cohort analysis of custumers behavior and their preferences. 
+Industries: E-commerce, SaaS, Gaming, Subscribing services.
+
+It's a powerful technique in data analytics used to examine how specific groups (cohorts) of users behave over time.
+
+Benefits of Cohort Analysis:	
+- Customer Retention Insights 		
+- Personalized Marketing 		
+- Analysis of Marketing Campaigns Performance								
+
+Cohort Metrics: 	
+- Retention Rate		
+- Average Revenue Per User (ARPU)		
+- Revenue Per Cohort  
+
+### Cohorts analyse
+![Cohorts analyse gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+
+### New vs Returning Sales
+![New vs Returning Sales gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+
+### Yearly Cohort Analysis
+![Yearly Cohort Analysis gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/marketing%20%20basket%20analysis.gif)
+
+</details>
+
 ## Contact Information
 
 If you have any questions, feedback, or collaboration opportunities, 
