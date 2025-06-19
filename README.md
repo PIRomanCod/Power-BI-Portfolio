@@ -93,7 +93,7 @@ Below you can see some of the functionality of this dashboard (all data is anony
 ![Turning money gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/turning%20money.gif)
 
 ### Markets 
-![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition0.gif)
+![Markets gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/market%20condition.gif)
 
 ###  Balances with counterparties
 ![Balances gif](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/counterparties%20balances.gif)
