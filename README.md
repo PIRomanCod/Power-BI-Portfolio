@@ -346,6 +346,8 @@ Traffic Report Dashboard
 Incidents Real-Time Dashboard
 ![Incidents Real-Time Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/IncidentsRealDashBoardScreenshot.png)
 
+</details>
+
 ## Project 6: Biodiesel and vegetable oils market prices automated Dashboard
 
 <details> <summary> A project that combines automatic collection of sales data in selected markets with an AI assistant for a sales managers</summary>
@@ -378,6 +380,8 @@ Euro Union export/import prices by culture and region
 
 Price comparing - EU/third
 ![Price comparing - EU/third](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
+</details>
 
 ## Another projects
 
