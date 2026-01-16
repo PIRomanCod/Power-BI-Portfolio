@@ -302,7 +302,7 @@ governance, urban planning, and traffic optimization use cases.
 
 ### Orchestration
 
-![Project Lineage part 1](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/WorkspaceLineage1Screenshot.png)
+Project Lineage part 1 ![Project Lineage part 1](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/WorkspaceLineage1Screenshot.png)
 
 ![Project Lineage part 2](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/WorkspaceLineage2Screenshot.png)
 
