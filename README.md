@@ -367,19 +367,21 @@ The AI ​​assistant part is implemented with the help of LLM from Google, and
 -   sending letters by topics according to the schedule
 
 World balances by culture
-![World balances by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![World balances by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/looker/World%20balances.png)
 
 Harvesting data
-![Harvesting data](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![Harvesting data](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/looker/Harvesting.png)
 
 Euro Union local prices by culture
-![Euro Union local prices by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![Euro Union local prices by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/looker/EU%20local.png)
 
 Euro Union export/import prices by culture and region
-![Euro Union export/import prices by culture and region](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![Euro Union export/import prices by culture and region](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/looker/EU%20export%20data.png)
 
 Price comparing - EU/third
-![Price comparing - EU/third](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![Price comparing - EU/third](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/looker/Price%20comparing.png)
+
+Other dashbord's pages contains sensitive data and for privacy reasons are not publicly available
 
 </details>
 
