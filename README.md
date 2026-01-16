@@ -302,7 +302,35 @@ governance, urban planning, and traffic optimization use cases.
 
 ### Orchestration
 
-![Eventstream](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+![Project Lineage part 1](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/WorkspaceLineage1Screenshot.png)
+
+![Project Lineage part 2](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/WorkspaceLineage2Screenshot.png)
+
+![Data Flow Gen2](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/dataflow_gen2%20Screenshot.png)
+
+![Batch Data ETL Pipeline](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/historical_data_ETL_pipelineScreenshot.png)
+
+![Streaming Data ETL Pipeline](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/Streaming_data_ETL_pipelineScreenshot.png)
+
+![EventHouse](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/CapstoneEventHouseScreenshot.png)
+
+![Lakehouse](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/CityDataLakehouseScreenshot.png)
+
+![Warehouse](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/CityWarehouseScreenshot.png)
+
+![Query Set For Real-Time analytic](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/QuerySetForRealTimeDashScreenshot.png)
+
+### Vizualzation
+
+![Semantic model](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/Semantic%20modelScreenshot.png)
+
+![Citizen Report Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/CitizenReportScreenshot.png)
+
+![Public Transport Report Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/PublicTransportReportScreenshot.png)
+
+![Traffic Report Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/One%20of%20EventStreamScreenshot.png)
+
+![Incidents Real-Time Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/IncidentsRealDashBoardScreenshot.png)
 
 ## Another projects
 
