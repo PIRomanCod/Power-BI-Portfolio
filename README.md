@@ -346,6 +346,39 @@ Traffic Report Dashboard
 Incidents Real-Time Dashboard
 ![Incidents Real-Time Dashboard](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/fabric/IncidentsRealDashBoardScreenshot.png)
 
+## Project 6: Biodiesel and vegetable oils market prices automated Dashboard
+
+<details> <summary> A project that combines automatic collection of sales data in selected markets with an AI assistant for a sales managers</summary>
+
+A project that combines automatic collection of sales data in individual markets for specified products and their visualization
+
+with an AI assistant for a sales manager that catalogs data on individual companies in a given industry and provides management with a report on the activity and performance of each manager
+
+Implemented with the help of python scripts that bypass resources at specified intervals
+
+The data is stored in Google spreadsheets, from which it is instantly updated in the Looker environment
+
+The AI ​​assistant part is implemented with the help of LLM from Google, and has the following functionality:
+
+-   cataloging of companies (names, addresses, activity profile, contacts)
+-   preparation of letters for sending offers according to the recipient's activity profile
+-   sending letters by topics according to the schedule
+
+World balances by culture
+![World balances by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
+Harvesting data
+![Harvesting data](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
+Euro Union local prices by culture
+![Euro Union local prices by culture](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
+Euro Union export/import prices by culture and region
+![Euro Union export/import prices by culture and region](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
+Price comparing - EU/third
+![Price comparing - EU/third](https://github.com/PIRomanCod/Power-BI-Portfolio/blob/main/src/)
+
 ## Another projects
 
 The portfolio also includes projects developed under NDA, which cannot be publicly shared.
